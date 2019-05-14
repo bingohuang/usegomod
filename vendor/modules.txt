@@ -1,0 +1,2 @@
+# github.com/bingohuang/testgomod/v2 v2.0.0
+github.com/bingohuang/testgomod/v2
