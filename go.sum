@@ -2,3 +2,5 @@ github.com/bingohuang/testgomod v1.0.0 h1:JdNLPaJoAvogFRBWAyyr5jrLAsKFv7axKYDOOe
 github.com/bingohuang/testgomod v1.0.0/go.mod h1:dSAc0893lV3VXfM/YX6n2s+lW3CxIXytDP//OgpmKFo=
 github.com/bingohuang/testgomod v1.0.1 h1:8AyFCN5nS894iwBE/nlf70k0SGswfSiRGzhOEeyJmrM=
 github.com/bingohuang/testgomod v1.0.1/go.mod h1:dSAc0893lV3VXfM/YX6n2s+lW3CxIXytDP//OgpmKFo=
+github.com/bingohuang/testgomod/v2 v2.0.0 h1:GA17FNuHfzG6nzHB2i7/l5YMjfEAFMj3GmGkukJ1Eo4=
+github.com/bingohuang/testgomod/v2 v2.0.0/go.mod h1:fP3UkTXsZ8+F2/IjWWKnFDuUv+mq/wI5davZeyL6G4c=
